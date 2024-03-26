@@ -16,3 +16,6 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+## a engenharia de requisitos tem como objetivo administrar os requisitos de um sistemas/software
+####  Requisitos funcionais,Requisitos não funcionais,Requisitos de domínio,Requisitos subconscientes,Requisitos conscientes,Requisitos inconscientes,Levantamento dos Requisitos,Análise de Requisitos.
+ ![imagem](https://arquivo.devmedia.com.br/artigos/Fabio_Gomes_Rocha/Engenharia_Requisitos/Engenharia_Requisitos_1.jpg)
